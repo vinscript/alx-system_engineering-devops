@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir iacta
+cd iacta
+head -3 iacta | tail -1
